@@ -11,3 +11,7 @@ Mode in code:
 - Menembak
 - Mengendalikan senjata
 - PID
+
+Mode tenggelam
+- Buzzer
+- Led
