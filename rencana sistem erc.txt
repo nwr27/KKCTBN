@@ -1,0 +1,13 @@
+Sistem remote kontrol:
+- Remote kontrol
+- Stik PS4
+
+Mode in code:
+- Maju
+- Mundur
+- Batas kecepatan rendah, sedang, tinggi
+- Belok kiri
+- Belok kanan
+- Menembak
+- Mengendalikan senjata
+- PID
