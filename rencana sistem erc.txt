@@ -1,8 +1,8 @@
-Sistem remote kontrol:
+1. Sistem remote kontrol:
 - Remote kontrol
 - Stik PS4
 
-Mode in code:
+2. Mode in code:
 - Maju
 - Mundur
 - Batas kecepatan rendah, sedang, tinggi
@@ -12,6 +12,14 @@ Mode in code:
 - Mengendalikan senjata
 - PID
 
-Mode tenggelam
+3. Mode tenggelam
 - Buzzer
 - Led
+
+4. Kapal cepat ERC terdiri dari:
+- lambung
+- bangunan atas
+- sistem propulsi (baterai, PCB, motor listrik, dan mesin kemudi)
+- remote control dengan frekuensi 2.4 GHz multi-channel.
+
+5. Berat Kapal minimal 5kg
