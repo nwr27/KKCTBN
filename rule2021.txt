@@ -1,0 +1,19 @@
+1. Kapal cepat ERC terdiri dari:
+- lambung
+- bangunan atas
+- sistem propulsi (baterai, PCB, motor listrik, dan mesin kemudi)
+- remote control dengan frekuensi 2.4 GHz multi-channel.
+
+2. Ketentuan lainnya 
+- Berat Kapal minimal 5kg
+- suplay maksimum adalah 2200mAh dan 120A
+- sakelar otomatis (sakelar power)
+- Prototipe kapal harus kedap air
+- Harus prototipe baru
+- senjata misil dengan bahan alkohol/kompresor udara, minimal 1 buah
+- ada  dua remote kontrol yang terpisah, yaitu kendali kapal dan remote kontrol kendali senjata
+
+link pendukung:
+https://www.youtube.com/watch?v=N7MK4p60rMw&ab_channel=Coverrise
+https://www.youtube.com/watch?v=vMMRheZZiVs&ab_channel=BeCreative
+https://www.youtube.com/watch?v=YFah0rQD2jg&ab_channel=CreativeideasKM

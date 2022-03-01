@@ -16,10 +16,3 @@
 - Buzzer
 - Led
 
-4. Kapal cepat ERC terdiri dari:
-- lambung
-- bangunan atas
-- sistem propulsi (baterai, PCB, motor listrik, dan mesin kemudi)
-- remote control dengan frekuensi 2.4 GHz multi-channel.
-
-5. Berat Kapal minimal 5kg
